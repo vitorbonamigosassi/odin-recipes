@@ -27,6 +27,11 @@ a:hover {
     color: black;
 }
 
+li {
+    list-style-type: none;
+    text-align: center;
+}
+
 .caption {
     text-align: center;
     font-size: 12px;
